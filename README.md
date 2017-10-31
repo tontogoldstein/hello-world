@@ -1,3 +1,3 @@
 # hello-world
 hello world test
-I will master python an dtake over the world!
+I will master python an take over the world!
